@@ -122,8 +122,6 @@ Al arrancar, la aplicación imprime en consola un mensaje que confirma cuál mot
 ![BDreal](docs/db_tabla.png)
 
 
-Se recomienda incluir en el repositorio una captura de este mensaje en consola, además de una captura de SQL Server Management Studio (SSMS) con las tablas creadas, o del archivo `biblioteca.db` abierto con un visor de SQLite mostrando datos reales.
-
 ## Enlace al video demostrativo
 
 [Ver video](ENLACE_AQUI)
