@@ -37,6 +37,7 @@ real (SQL Server, con respaldo automático a SQLite si no hay conexión disponib
 ## Tecnologías utilizadas
 
 - **Python 3**
+- **QT Designer**
 - **PySide6** (interfaz gráfica)
 - **pyodbc** (conexión a SQL Server)
 - **SQL Server** como motor principal / **SQLite** como respaldo automático
