@@ -101,7 +101,7 @@ Una sola tabla `prestamos` almacena ambos tipos de préstamo, diferenciándolos 
 
 ## Capturas de pantalla de la GUI
 
-> ⚠️ **Nota:** agrega aquí tus propias capturas reales de la aplicación antes de subir el repositorio a GitHub. Las imágenes no se generan automáticamente.
+
 
 ![Login](docs/login.png)
 ![Registro](docs/registro.png)
