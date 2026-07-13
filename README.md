@@ -126,8 +126,8 @@ Al arrancar, la aplicación imprime en consola un mensaje que confirma cuál mot
 
 
 ## Enlace al video demostrativo
-https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://drive.google.com/file/d/1RtitkRex4BkEYyrOlwlSqzYtVodXims7/view?usp=drive_link
-> Recuerda reemplazar `ENLACE_AQUI` con el enlace real una vez grabado y subido el video (máximo 3 minutos, con todos los integrantes).
+
+https://drive.google.com/file/d/1RtitkRex4BkEYyrOlwlSqzYtVodXims7/view?usp=sharing
 
 ## Validaciones implementadas
 
